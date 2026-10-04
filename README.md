@@ -123,16 +123,6 @@ http://10.0.2.2:8080/api
 
 `10.0.2.2` maps the Android emulator to the host machine. Change the API base URL when running on a physical device or another environment.
 
-## Screenshots
-
-Add screenshots to `docs/screenshots/` and include them here before featuring the repository on a CV or LinkedIn profile.
-
-Suggested screenshots:
-1. Login
-2. Dashboard
-3. Drivers
-4. Vehicles
-5. Trips
 
 ## Development Status & Security Note
 
